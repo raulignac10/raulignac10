@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raulignac10
 - 👀 I’m interested in ML, Cibersecurity, Cloud Computing, NLP
-- 🌱 I’m currently learning Data Science and 
+- 🌱 I’m currently learning Data Science and other programming languages
 - 💞️ I’m looking to collaborate on Machine Learning or Data Science Proyects
 
 # Languages:
