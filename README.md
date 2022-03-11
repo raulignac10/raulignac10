@@ -8,12 +8,14 @@
 
 # Tools
 
-Google Colab
-Jupyter Notebook
-GCP
-AWS
+![jupyter_logo_icon_169452](https://user-images.githubusercontent.com/97913559/157900896-ab1f0a64-89f0-4d43-b42b-5037fdc2fc5d.png)
+![pytorch_logo_icon_170820](https://user-images.githubusercontent.com/97913559/157900908-3b582814-ff49-48f0-8ae1-47a9044b5816.png)
+![pngaaa com-2510235](https://user-images.githubusercontent.com/97913559/157901837-eff7f310-2a23-4dce-9827-d3889829b858.png)
+
 
 # Connect with me
+
+![in_linked_linkedin_media_social_icon_124259](https://user-images.githubusercontent.com/97913559/157900924-ee4fecdf-6a24-43b8-a83b-1fd8c392d563.png)
 
 <!---
 raulignac10/raulignac10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
