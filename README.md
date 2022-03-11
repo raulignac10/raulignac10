@@ -10,7 +10,9 @@
 
 ![jupyter_logo_icon_169452](https://user-images.githubusercontent.com/97913559/157900896-ab1f0a64-89f0-4d43-b42b-5037fdc2fc5d.png)
 ![pytorch_logo_icon_170820](https://user-images.githubusercontent.com/97913559/157900908-3b582814-ff49-48f0-8ae1-47a9044b5816.png)
-![pngaaa com-2510235](https://user-images.githubusercontent.com/97913559/157901837-eff7f310-2a23-4dce-9827-d3889829b858.png)
+<p>
+  <img width="46" height="30" src="https://user-images.githubusercontent.com/97913559/157901837-eff7f310-2a23-4dce-9827-d3889829b858.png">
+</p>
 
 
 # Connect with me
