@@ -15,7 +15,8 @@
 
 # Connect with me
 
-![in_linked_linkedin_media_social_icon_124259](https://user-images.githubusercontent.com/97913559/157900924-ee4fecdf-6a24-43b8-a83b-1fd8c392d563.png)
+
+<a href="https://www.linkedin.com/in/reyes-santana-raul/"><img src="https://user-images.githubusercontent.com/97913559/157900924-ee4fecdf-6a24-43b8-a83b-1fd8c392d563.png" /></a>
 
 <!---
 raulignac10/raulignac10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
